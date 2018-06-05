@@ -2,4 +2,4 @@
 Unfinished
 
 
-Browser view: https://sheabim.github.io/CascadingStyleSheets/ecardly_css/
+Browser view: https://sheabim.github.io/Project-CascadingStyleSheets/ecardly_css/
